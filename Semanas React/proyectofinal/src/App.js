@@ -1,6 +1,6 @@
 import logito from './logo.svg';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';  
 import Menu from './misc/Menu';
 import Footer from './misc/Footer';
 import CursoList from './curso/CursoList';
